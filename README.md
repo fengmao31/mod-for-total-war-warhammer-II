@@ -15,6 +15,17 @@
 
 面向对象数据库的《战争游戏：红龙》则是面向关系型的数据中条目调用其他类来描述此模块，而不是纯粹的简单数据结构。
 
+# PFM工具（packfilemanager）
+
+packfilemanager下载链接
+https://sourceforge.net/projects/packfilemanager/
+
+数据红色或者点击崩溃闪退，说明工具不是最新版或者框架不是最新版，没有对照游戏的最新更新并覆盖最新版工具。
+https://sourceforge.net/projects/packfilemanager/files/Schemata/
+
+删除行直接按delete
+
+
 # 修改单位数据
 
 # 修改单位建造
