@@ -28,6 +28,13 @@ https://sourceforge.net/projects/packfilemanager/files/Schemata/
 
 # 修改单位数据
 
+##注意：
+
+修改建造前要增加单位进阵营许可表
+
+修改单位特性，部分特性在特性组里面被单位调用特性组，被动特性是额外附加表至单位
+
+
 # 修改单位建造
 
 # 新增阵营
