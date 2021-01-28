@@ -28,6 +28,8 @@ https://sourceforge.net/projects/packfilemanager/files/Schemata/
 
 # 修改单位数据
 
+https://space.bilibili.com/77088674/article
+
 ##注意：
 
 修改建造前要增加单位进阵营许可表
