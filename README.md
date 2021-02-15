@@ -1,5 +1,8 @@
 # mod for total war warhammer II
 
+# 全面战争论坛
+https://www.twcenter.net/
+
 # 单位数据库
 
 自罗马2开始，全面战争系列从面向对象数据库，变为关系型数据库，似乎是开了历史得倒车。
@@ -19,7 +22,7 @@
 
 packfilemanager下载链接
 https://sourceforge.net/projects/packfilemanager/
-
+http://www.twcenter.net/forums/showthread.php?759161
 数据红色或者点击崩溃闪退，说明工具不是最新版或者框架不是最新版，没有对照游戏的最新更新并覆盖最新版工具。
 https://sourceforge.net/projects/packfilemanager/files/Schemata/
 
