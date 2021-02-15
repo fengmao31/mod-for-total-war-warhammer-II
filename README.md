@@ -21,9 +21,14 @@ https://www.twcenter.net/
 # PFM工具（packfilemanager）
 
 packfilemanager下载链接
+
 https://sourceforge.net/projects/packfilemanager/
+
+官方现在数据库框架和软件分离
 http://www.twcenter.net/forums/showthread.php?759161
-数据红色或者点击崩溃闪退，说明工具不是最新版或者框架不是最新版，没有对照游戏的最新更新并覆盖最新版工具。
+
+数据红色或者点击崩溃闪退，说明工具不是最新版或者数据库框架不是最新版，没有对照游戏的最新更新并覆盖最新版工具。
+
 https://sourceforge.net/projects/packfilemanager/files/Schemata/
 
 删除行直接按delete
